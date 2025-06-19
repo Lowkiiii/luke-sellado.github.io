@@ -15,7 +15,7 @@
 
 ## 🧩 Featured Projects
 
-### 🔹 LasalleFolio
+### 🔹 [LasalleFolio](https://github.com/Lowkiiii/LasalleFolio)
 An award-winning social networking and gamified portfolio platform for students.  
 - 🏅 Best Thesis – IT/CS Expo 2025  
 - RESTful API and recommendation system built in Laravel  
