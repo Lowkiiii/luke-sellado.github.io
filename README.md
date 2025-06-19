@@ -15,18 +15,18 @@
 
 ## 🧩 Featured Projects
 
+### 🔹 LasalleFolio
+An award-winning social networking and gamified portfolio platform for students.  
+- 🏅 Best Thesis – IT/CS Expo 2025  
+- RESTful API and recommendation system built in Laravel  
+- Collaborative Filtering (Jaccard Similarity)
+
 ### 🔹 [Lagaw-NIR](https://github.com/Lowkiiii/lagaw-nir)
 A Laravel-based web app for tourism management built as a full-stack project.  
 Includes:
 - Admin & User modules
 - 2FA (Google OAuth via Laravel Socialite)
 - Tourism database with categorized places and events
-
-### 🔹 LasalleFolio
-An award-winning social networking and gamified portfolio platform for students.  
-- 🏅 Best Thesis – IT/CS Expo 2025  
-- RESTful API and recommendation system built in Laravel  
-- Collaborative Filtering (Jaccard Similarity)
 
 ---
 
