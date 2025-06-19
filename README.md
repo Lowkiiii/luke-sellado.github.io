@@ -1,4 +1,4 @@
-# Luke Sellado – Web Developer Portfolio
+# Luke Sellado – Software Engineer Portfolio
 
 🎯 A responsive developer portfolio showcasing my work as a software engineer.
 
