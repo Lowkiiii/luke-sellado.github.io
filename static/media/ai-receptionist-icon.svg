@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="AI receptionist">
+  <rect width="200" height="200" rx="44" fill="#6c63ff"/>
+  <g fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 108 a48 48 0 0 1 96 0"/>
+    <path d="M140 138 q0 26 -34 26 h-8"/>
+  </g>
+  <g fill="#ffffff">
+    <rect x="40" y="104" width="24" height="46" rx="11"/>
+    <rect x="136" y="104" width="24" height="46" rx="11"/>
+    <circle cx="98" cy="164" r="8"/>
+  </g>
+</svg>
